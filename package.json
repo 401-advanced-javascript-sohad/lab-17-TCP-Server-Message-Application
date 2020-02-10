@@ -1,0 +1,25 @@
+{
+  "name": "lab-17-TCP-Server-Message-Application",
+  "version": "1.0.0",
+  "description": "Create an event driven application that “distributes” the responsibility for logging to a separate server via TCP , using only events to trigger logging based on activity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-sohad/lab-17-TCP-Server-Message-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-sohad/lab-17-TCP-Server-Message-Application/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-sohad/lab-17-TCP-Server-Message-Application#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0",
+    "uuid": "^3.4.0"
+  }
+}
